@@ -8,4 +8,5 @@ int main()
 {
   Stk::setSampleRate(48000);
   printf("Hi!\n");
-}
+  printf("hello-world\n");
+
